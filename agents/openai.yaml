@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lec-master"
+  short_description: "Turn lecture slides and transcripts into exam-ready study notes"
+  default_prompt: "整理我提供的 lecture slides/PDF 和 transcript/TXT，输出有页码依据的知识点、公式、例题、老师强调内容和考试复习清单。"
