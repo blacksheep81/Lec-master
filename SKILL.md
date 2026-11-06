@@ -29,6 +29,7 @@ Use supplied course materials as the source of truth. Do not invent content abse
 - Transcript-only explanations are not presented as official slide content.
 - Remove duplication without losing qualifications or exceptions.
 - End with missing, ambiguous, or unreadable source material.
+- For paired sources, verify that a slide claim carries its page and an oral clarification carries its timestamp. If the transcript contradicts the slide, report both claims and their locations before choosing a study note. If the user wants the PDF-first LaTeX cheat-sheet workflow, prefer `summarize-slides` when installed. Use this skill for Markdown-first notes and cross-lecture synthesis.
 
 ## Default output order
 
